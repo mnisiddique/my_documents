@@ -15,7 +15,7 @@ Sl No. |                                          Site Name                     
 
 # Flutter Interview Questions
 
-|  01. Explain the flutter architecture.    |
+  01. Explain the flutter architecture.    
 
   02. Explain Container class in a flutter.
 
@@ -179,29 +179,28 @@ Sl No. |                                          Site Name                     
   81. An existing Flutter project is handed over to you and you have to add 4 more features to it. What would be your
        approach towards this?
 
- 82. (Enlist some major features of Flutter)[https://www.onlineinterviewquestions.com/flutterinterviewquestions/]
+ 82. [Enlist some major features of Flutter](https://www.onlineinterviewquestions.com/flutterinterviewquestions/)
 
- 83. (List some advantages of Flutter
-)[https://www.onlineinterviewquestions.com/flutterinterviewquestions/]
+ 83. [List some advantages of Flutter](https://www.onlineinterviewquestions.com/flutterinterviewquestions/)
 
- 84. (List minimum system requirements to install Flutter on Linux)[https://www.onlineinterviewquestions.com/flutterinterviewquestions/]
+ 84. [List minimum system requirements to install Flutter on Linux](https://www.onlineinterviewquestions.com/flutterinterviewquestions/)
 
- 85. (What is tree shaking in Flutter?)[https://www.onlineinterviewquestions.com/flutterinterviewquestions/]
+ 85. [What is tree shaking in Flutter?](https://www.onlineinterviewquestions.com/flutterinterviewquestions/)
 
- 86. (What is a Spacer widget?)[https://www.onlineinterviewquestions.com/flutterinterviewquestions/]
+ 86. [What is a Spacer widget?](https://www.onlineinterviewquestions.com/flutterinterviewquestions/)
 
- 87. (what are DevTools in flutter?)[https://www.onlineinterviewquestions.com/flutterinterviewquestions/]
+ 87. [what are DevTools in flutter?](https://www.onlineinterviewquestions.com/flutterinterviewquestions/)
 
- 88. (What is Flutter native?)[https://www.onlineinterviewquestions.com/flutterinterviewquestions/]
+ 88. [What is Flutter native?](https://www.onlineinterviewquestions.com/flutterinterviewquestions/)
 
- 89. (What is Flex box in Flutter?)[https://www.onlineinterviewquestions.com/flutterinterviewquestions/]
+ 89. [What is Flex box in Flutter?](https://www.onlineinterviewquestions.com/flutterinterviewquestions/)
 
- 90. (How do widgets work?)[https://procoders.tech/blog/fluttertechnicalinterviewquestions/]
+ 90. [How do widgets work?](https://procoders.tech/blog/fluttertechnicalinterviewquestions/)
 
- 91. (Why is Flutter better than its competitors in mobile app development?)[https://procoders.tech/blog/fluttertechnicalinterviewquestions/]
+ 91. [Why is Flutter better than its competitors in mobile app development?](https://procoders.tech/blog/fluttertechnicalinterviewquestions/)
 
- 92. (What are the advantages of Dart in programming?)[https://procoders.tech/blog/fluttertechnicalinterviewquestions/]
+ 92. [What are the advantages of Dart in programming?](https://procoders.tech/blog/fluttertechnicalinterviewquestions/)
 
- 93. (What are some drawbacks of Flutter and Dart?)[https://procoders.tech/blog/fluttertechnicalinterviewquestions/]
+ 93. [What are some drawbacks of Flutter and Dart?](https://procoders.tech/blog/fluttertechnicalinterviewquestions/)
 
- 94. (How do you add interactivity to an app?)[https://procoders.tech/blog/fluttertechnicalinterviewquestions/]
+ 94. [How do you add interactivity to an app?](https://procoders.tech/blog/fluttertechnicalinterviewquestions/)
