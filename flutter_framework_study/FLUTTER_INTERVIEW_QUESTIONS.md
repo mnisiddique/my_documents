@@ -1,26 +1,15 @@
 # Interview Question Site
-Sl No. |                                          Site Name         
--------|----------------------------------------------------------------------------------------------------------------|
-  01   |     [InterviewBits (Reviewd)](https://www.interviewbit.com/flutter-interview-questions/)             Q. 38
--------|----------------------------------------------------------------------------------------------------------------|
-  02   |     [Javapoint (Reviewd)](https://www.javatpoint.com/flutter-interview-questions)                    Q. 40
--------|----------------------------------------------------------------------------------------------------------------|
-  03   |     [QFLEs (Reviewed)](https://www.qfles.com/interview-question/flutter-interview-questions)         Q. 41
--------|----------------------------------------------------------------------------------------------------------------|
-  04   |     [Kodeco/Raywinderlich](https://www.kodeco.com/10971345-flutter-interview-questions-and-answers)  Q. 23
--------|----------------------------------------------------------------------------------------------------------------|
-  06   |     [procoderstech (Reviewed)](https://procoders.tech/blog/flutter-technical-interview-questions/)   Q. 15
--------|----------------------------------------------------------------------------------------------------------------|
-  06   | [Medium (Reviewed)](https://medium.com/@kalpeshbkundanani/flutter-interview-questions-with-answers-391e48f6ca60)                                                      Q. 20
--------|----------------------------------------------------------------------------------------------------------------|
-  07   |     [OnlineInterviewQuestion (Reviewed)](https://www.onlineinterviewquestions.com/flutter-interview-questions/)  Q. 20
--------|----------------------------------------------------------------------------------------------------------------|
-  08   |     [FullstackCafe  (Reviewd)](https://www.fullstack.cafe/blog/flutter-interview-questions)          Q. 29
--------|----------------------------------------------------------------------------------------------------------------|
-  09   | [Job Interview Flutter Developer](https://levelup.gitconnected.com/job-interview-flutter-developer-8adcb2c75dd4)                                                               Q. 62
--------|----------------------------------------------------------------------------------------------------------------|
-                 Total Number Of Question                                                                        288
--------|----------------------------------------------------------------------------------------------------------------|
+Sl No. |                                          Site Name                                                 | Questions
+  01   |     [InterviewBits (Reviewd)](https://www.interviewbit.com/flutter-interview-questions/)           |  38
+  02   |     [Javapoint (Reviewd)](https://www.javatpoint.com/flutter-interview-questions)                  |  40
+  03   |     [QFLEs (Reviewed)](https://www.qfles.com/interview-question/flutter-interview-questions)       |  41
+  04   |     [Kodeco/Raywinderlich](https://www.kodeco.com/10971345-flutter-interview-questions-and-answers)|  23
+  06   |     [procoderstech (Reviewed)](https://procoders.tech/blog/flutter-technical-interview-questions/) |  15
+  06   | [Medium (Reviewed)](https://medium.com/@kalpeshbkundanani/flutter-interview-questions-with-answers-391e48f6ca60)                                                    |  20
+  07   |     [OnlineInterviewQuestion (Reviewed)](https://www.onlineinterviewquestions.com/flutter-interview-questions/)                                                                             |  20
+  08   |     [FullstackCafe  (Reviewd)](https://www.fullstack.cafe/blog/flutter-interview-questions)        |  29
+  09   | [Job Interview Flutter Developer](https://levelup.gitconnected.com/job-interview-flutter-developer-8adcb2c75dd4)                                                             |  62
+       |       Total Number Of Question                                                                     |  288
 
 
 # Flutter Interview Questions
