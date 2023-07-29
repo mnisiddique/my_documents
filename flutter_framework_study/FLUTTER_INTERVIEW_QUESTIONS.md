@@ -15,23 +15,23 @@ Sl No. |                                          Site Name                     
 
 # Flutter Interview Questions
 
-  01. Explain the flutter architecture.    
+  01  Explain the flutter architecture.    
 
-  02. Explain Container class in a flutter.
+  02  Explain Container class in a flutter.
 
   03  Explain Flutter Inspector
 
-  04. What do you mean by flutter SDK?
+  04  What do you mean by flutter SDK?
 
-  05. What do you mean by Widget testing?
+  05  What do you mean by Widget testing?
 
-  06. Explain Flutter Provider.
+  06  Explain Flutter Provider.
 
-  07. What is state management?
+  07  What is state management?
 
-  08. What are the resources to learn Flutter?
+  08  What are the resources to learn Flutter?
 
-  09. What type of applications can you develop using Flutter?
+  09  What type of applications can you develop using Flutter?
 
   10. What makes Flutter unique?
 
