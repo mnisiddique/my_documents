@@ -14,8 +14,9 @@ Widget of which data cannot be modified after once they built.
 Widget of which data can be modified after once they built.
 
 
-# What are Inherited Widgets in Flutter?
-**Inherited Widget:** The widget that is able to pass data/state and data/state change events to its child/descendants without using the constructor is known as inherited widget. 
+
+# Inherited Widget: 
+The widget that is able to pass data/state and data/state change events to its child/descendants without using the constructor is known as inherited widget. 
 
 - Flutter framework itself uses inherited widget. For example, Theme, Navigator, MediaQuery etc. are inherited widgets.
 
