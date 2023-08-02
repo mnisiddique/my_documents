@@ -27,7 +27,9 @@ Widget of which data can be modified after once they built.
 
 - dependOnInheritedWidgetOfExactType<InheritedNetworkHandler> is a method that tries to find concrete implementation of the given type above the current widget of the widget tree.
 
-**Build Context:** Build context in flutter is a locator, which locates widget in the widget tree. Each widget contains unique build context. The build function which has ‘BuildContext’ param does not represents the tree location of the widget returned by that function. For e.g.
+# Build Context: 
+Build context in flutter is a locator, which locates widget in the widget tree. Each widget contains unique build context. The build function which has‘BuildContext’ param does not represents the tree location of the widget
+returned by that function. For e.g.
 
 ```
 class MyHomePage extends StatefulWidget {
