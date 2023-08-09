@@ -13,4 +13,4 @@
 
 -  [Scalable localization](https://theroutingcompany.com/newsroom/a-scalable-approach-to-localization-for-flutter)
 
--  [Localization by custom service](https://theroutingcompany.com/newsroom/a-scalable-approach-to-localization-for-flutter)
+- [FLutter Google Translate Api](https://medium.flutterdevs.com/multi-language-translator-in-flutter-14b927a0e777)
