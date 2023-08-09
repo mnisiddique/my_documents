@@ -11,5 +11,6 @@
 
 ## Some localization idea
 
-  [Scalable localization](https://theroutingcompany.com/newsroom/a-scalable-approach-to-localization-for-flutter)
-  [Localization by custom service](https://theroutingcompany.com/newsroom/a-scalable-approach-to-localization-for-flutter)
+-  [Scalable localization](https://theroutingcompany.com/newsroom/a-scalable-approach-to-localization-for-flutter)
+
+-  [Localization by custom service](https://theroutingcompany.com/newsroom/a-scalable-approach-to-localization-for-flutter)
