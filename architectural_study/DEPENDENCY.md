@@ -1,0 +1,1 @@
+- [Understanding Dependency](https://jenkov.com/tutorials/ood/understanding-dependencies.html#:~:text=Whenever%20a%20class%20A%20uses,is%20called%20the%20%22dependency%22)
