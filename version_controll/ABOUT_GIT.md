@@ -1,2 +1,2 @@
 # Findings About Git
-- [Loosing Contribution while leaving organization](https://vikrantbhat.hashnode.dev/dont-lose-your-github-contributions-when-you-leave-an-organization?fbclid=IwAR025uIv2xB1aXbKmM0IkP_ViYENDy89tbaZFt4TWjYlEzZMbUMVcOde7Ok)
+- [Persisting git Contribution while leaving organization](https://vikrantbhat.hashnode.dev/dont-lose-your-github-contributions-when-you-leave-an-organization?fbclid=IwAR025uIv2xB1aXbKmM0IkP_ViYENDy89tbaZFt4TWjYlEzZMbUMVcOde7Ok)
