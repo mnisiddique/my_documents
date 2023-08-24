@@ -25,3 +25,6 @@
  17. Build Context
  18. Event Loop
  19. Widget Lifecycle
+ 20. [Building platform adaptive apps](https://www.youtube.com/watch?v=RCdeSKVt7LI)
+     [flutter-adaptive-demo](https://github.com/gskinnerTeam/flutter-adaptive-demo/tree/master/lib)
+     [Responsive and adaptive design](https://docs.flutter.dev/ui/layout/responsive/adaptive-responsive)
