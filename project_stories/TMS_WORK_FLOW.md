@@ -1,5 +1,7 @@
 ```mermaid
-
+---
+title: Back end synchronizer workflow
+---
 graph TD
    id1([Start]) --> id2[/Read repo info from config.json/];
    id2[/Read repo info from config.json/] --> id3["Look for repo directory"];
