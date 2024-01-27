@@ -1,6 +1,6 @@
 ```mermaid
 title: Back-End Synchronizer Workflow
-graph TD;
+graph TD
    id1([Start]) --> id2[/Read repo info from config.json/];
    id2[/Read repo info from config.json/] --> id3["`Look for repo directory`"];
    id3["`Look for repo directory`"] --> id4{if Found};
