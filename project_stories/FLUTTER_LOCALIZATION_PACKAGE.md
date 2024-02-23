@@ -17,6 +17,10 @@
 
 - [Overcoming the limitations of dart enum](https://ra9r.medium.com/overcoming-the-limitations-of-dart-enum-8866df8a1c47)
 
+- [13 Tips for localization](https://yapb.dev/tips-and-tricks-13-tips-when-working-with-arb-files-for-localization)
+
+
+
 
 Translatable object hierarchy.
 1. Translatable
