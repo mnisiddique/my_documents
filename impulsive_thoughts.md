@@ -26,3 +26,6 @@
 
 ### Flexibility I want to provide
     - I want to facilitate any UI reaction like showing floating widget (e.g. dialog, snackbar), navigation to route, replacing or adding any widget.
+
+#### Note: 
+Any kind of ambiguity should be avoided.
